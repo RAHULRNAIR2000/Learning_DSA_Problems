@@ -1,2 +1,6 @@
-package org.example;public class Node {
+package org.example;
+
+public class Node {
+    int data;
+    Node next;
 }
